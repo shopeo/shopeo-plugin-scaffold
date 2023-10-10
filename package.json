@@ -1,0 +1,10 @@
+{
+  "name": "shopeo-plugin-scaffold",
+  "version": "0.0.1",
+  "description": "SHOPEO Plugin Scaffold",
+  "scripts": {
+  },
+  "author": "SHOPEO",
+  "homepage": "https://shopeo.cn",
+  "license": "MIT"
+}
