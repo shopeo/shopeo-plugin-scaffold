@@ -1,15 +1,16 @@
 {
-    "name": "shopeo/shopeo-plugin-scaffold",
-    "autoload": {
-        "psr-4": {
-            "Shopeo\\ShopeoPluginScaffold\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "jabber",
-            "email": "2898117012@qq.com"
-        }
-    ],
-    "require": {}
+	"name": "shopeo/shopeo-plugin-scaffold",
+	"autoload": {
+		"psr-4": {
+			"Shopeo\\ShopeoPluginScaffold\\": "src/"
+		}
+	},
+	"authors": [
+		{
+			"name": "SHOPEO",
+			"email": "hello@shopeo.cn",
+			"homepage": "https://shopeo.cn"
+		}
+	],
+	"require": {}
 }
