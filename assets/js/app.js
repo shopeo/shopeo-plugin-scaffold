@@ -11,10 +11,10 @@
 
 /***/ }),
 
-/***/ "./src/assets/scss/app.scss":
-/*!**********************************!*\
-  !*** ./src/assets/scss/app.scss ***!
-  \**********************************/
+/***/ "./src/assets/scss/style.scss":
+/*!************************************!*\
+  !*** ./src/assets/scss/style.scss ***!
+  \************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -24,10 +24,10 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ "./src/assets/scss/app-rtl.scss":
-/*!**************************************!*\
-  !*** ./src/assets/scss/app-rtl.scss ***!
-  \**************************************/
+/***/ "./src/assets/scss/style-rtl.scss":
+/*!****************************************!*\
+  !*** ./src/assets/scss/style-rtl.scss ***!
+  \****************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -124,8 +124,8 @@ __webpack_require__.r(__webpack_exports__);
 /******/ 		// [resolve, reject, Promise] = chunk loading, 0 = chunk loaded
 /******/ 		var installedChunks = {
 /******/ 			"/assets/js/app": 0,
-/******/ 			"assets/css/app-rtl": 0,
-/******/ 			"assets/css/app": 0
+/******/ 			"assets/css/style-rtl": 0,
+/******/ 			"assets/css/style": 0
 /******/ 		};
 /******/ 		
 /******/ 		// no chunk on demand loading
@@ -175,9 +175,9 @@ __webpack_require__.r(__webpack_exports__);
 /******/ 	// startup
 /******/ 	// Load entry module and return exports
 /******/ 	// This entry module depends on other loaded chunks and execution need to be delayed
-/******/ 	__webpack_require__.O(undefined, ["assets/css/app-rtl","assets/css/app"], () => (__webpack_require__("./src/assets/js/app.js")))
-/******/ 	__webpack_require__.O(undefined, ["assets/css/app-rtl","assets/css/app"], () => (__webpack_require__("./src/assets/scss/app.scss")))
-/******/ 	var __webpack_exports__ = __webpack_require__.O(undefined, ["assets/css/app-rtl","assets/css/app"], () => (__webpack_require__("./src/assets/scss/app-rtl.scss")))
+/******/ 	__webpack_require__.O(undefined, ["assets/css/style-rtl","assets/css/style"], () => (__webpack_require__("./src/assets/js/app.js")))
+/******/ 	__webpack_require__.O(undefined, ["assets/css/style-rtl","assets/css/style"], () => (__webpack_require__("./src/assets/scss/style.scss")))
+/******/ 	var __webpack_exports__ = __webpack_require__.O(undefined, ["assets/css/style-rtl","assets/css/style"], () => (__webpack_require__("./src/assets/scss/style-rtl.scss")))
 /******/ 	__webpack_exports__ = __webpack_require__.O(__webpack_exports__);
 /******/ 	
 /******/ })()
