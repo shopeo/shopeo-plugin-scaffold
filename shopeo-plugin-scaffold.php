@@ -1,13 +1,13 @@
 <?php
 /**
- * Plugin Name: SHOPEO WP Core
- * Plugin URI: https://wordpress.org/plugins/shopeo-wp-core
- * Description: The easy way to customize your WordPress <code>wp-login.php</code> screen!
+ * Plugin Name: SHOPEO Plugin Scaffold
+ * Plugin URI: https://wordpress.org/plugins/shopeo-plugin-scaffold
+ * Description:
  * Author: Shopeo
  * Version: 0.0.1
  * Author URI: https://shopeo.cn
  * License: GPL3+
- * Text Domain: shopeo-wp-core
+ * Text Domain: shopeo-plugin-scaffold
  * Domain Path: /languages
  * Requires at least: 5.9
  * Requires PHP: 5.6
