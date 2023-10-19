@@ -3,7 +3,7 @@
         'name' => 'shopeo/shopeo-plugin-scaffold',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '88712e53eb7ff333732569982e82959ce3f4ae0c',
+        'reference' => 'c69ac205158e156b9fb5ba205b8297c4e91881fe',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'shopeo/shopeo-plugin-scaffold' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '88712e53eb7ff333732569982e82959ce3f4ae0c',
+            'reference' => 'c69ac205158e156b9fb5ba205b8297c4e91881fe',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
