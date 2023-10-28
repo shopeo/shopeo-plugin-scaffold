@@ -14,14 +14,14 @@
 	"author": "SHOPEO",
 	"homepage": "https://shopeo.cn",
 	"license": "MIT",
-	"dependencies": {
+	"devDependencies": {
 		"autoprefixer": "^10.4.16",
 		"laravel-mix": "^6.0.49",
 		"postcss": "^8.4.31",
 		"postcss-import": "^15.1.0",
 		"resolve-url-loader": "^5.0.0",
 		"rtlcss": "^4.1.1",
-		"sass": "^1.69.4",
+		"sass": "^1.69.5",
 		"sass-loader": "^13.3.2"
 	}
 }
