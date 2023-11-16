@@ -3,4 +3,7 @@
 
 ## Depend Tools
 
-https://github.com/TGMPA/TGM-Plugin-Activation
+- https://developer.wordpress.org
+- https://developer.wordpress.org/plugins/
+- https://getbootstrap.com/
+- https://github.com/TGMPA/TGM-Plugin-Activation
