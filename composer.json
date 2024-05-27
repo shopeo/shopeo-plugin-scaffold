@@ -5,6 +5,14 @@
 			"Shopeo\\ShopeoPluginScaffold\\": "src/"
 		}
 	},
+	"scripts": {
+		"phpcs": [
+			"vendor/bin/phpcs --extensions=php -s -p"
+		],
+		"phpcbf": [
+			"vendor/bin/phpcbf -p"
+		]
+	},
 	"authors": [
 		{
 			"name": "SHOPEO",
