@@ -1,4 +1,4 @@
-let mix = require( 'laravel-mix' );
+const mix = require( 'laravel-mix' );
 
 mix.js( 'src/assets/js/admin.js', 'assets/js' )
 	.js( 'src/assets/js/app.js', 'assets/js' )
