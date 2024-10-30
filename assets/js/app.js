@@ -1,11 +1,9 @@
-/******/ ( () => {
-	// webpackBootstrap
-	var __webpack_exports__ = {};
-	/*!******************************!*\
+/******/ (function() { // webpackBootstrap
+/*!******************************!*\
   !*** ./src/assets/js/app.js ***!
   \******************************/
-	( function ( $ ) {
-		$( function () {} );
-	} )( jQuery );
-	/******/
-} )();
+(function ($) {
+  $(function () {});
+})(jQuery);
+/******/ })()
+;
